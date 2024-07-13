@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Corbin</h1>
+<h1 align="left">Hi 👋, I'm Corbin</h1>
+<h3 align="left">Software Engineer at Awardco</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
